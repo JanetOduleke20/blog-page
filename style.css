@@ -1,0 +1,28 @@
+ul li a {
+    text-decoration: none;
+    /* font-weight: bold; */
+    color: white;
+    display: flex;
+}
+ul li{
+    list-style-type: none;
+    margin-bottom: 1rem;
+}
+.blogHead{
+    border: 1px thin black;
+}
+.dashboard {
+    width: 100%;
+}
+#SideBar{
+    /* background-color: rgb(7, 7, 59);  */
+    background-color: aliceblue;
+    color: blue;
+    height: 1px;
+}
+.postBtn {
+    /* background-color:rgb(7, 7, 59) ; */
+}
+a{
+    text-decoration: none;
+}
